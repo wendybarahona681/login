@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60410253676",
+    "project_id": "login-7c128",
+    "storage_bucket": "login-7c128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60410253676:android:51cb3f66955ab72fd26349",
+        "android_client_info": {
+          "package_name": "com.wjbp.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2nXtOQpvhiyQI_HffkW9AFsyOLWBJtTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
