@@ -18,7 +18,7 @@ class Acercade extends StatelessWidget {
           children: <Widget>[
              //Imagen con ambas fotos
             Image.asset(
-               'images/foto.jpeg', // Ruta de la imagen combinada
+               'imagenes/foto.jpeg', // Ruta de la imagen combinada
               width: 150.0,
               height: 150.0,
             ),
